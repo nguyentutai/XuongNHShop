@@ -30,3 +30,6 @@ body {
         @apply h-[64px] leading-[64px] px-28 text-lg;
     }
 }
+footer {
+    background: linear-gradient(180deg, #1a1e26 0%, #01100b 100%);
+}
